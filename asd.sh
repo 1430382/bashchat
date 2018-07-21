@@ -1,5 +1,5 @@
 #!/bin/bash
-# Server: ncat -e chat.sh -lk &
+# Server: ncat -e asd.sh -lk &
 # Client: ncat server_ip
 ####333
 #config
